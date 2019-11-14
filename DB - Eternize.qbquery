@@ -1,0 +1,14 @@
+﻿SELECT * FROM empresa e;
+desc empresa;
+
+SELECT * FROM cliente c;
+desc cliente;
+
+SELECT * FROM funcionario f;
+desc funcionario;
+
+SELECT * FROM produto p;
+desc produto;
+
+SELECT * FROM servico s;
+desc servico;
